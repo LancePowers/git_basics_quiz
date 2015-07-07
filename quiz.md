@@ -2,7 +2,7 @@
 
 ###What is your name?
 
-Your answer goes here
+Lance Powers
 
 ###What is your favorite color?
 
